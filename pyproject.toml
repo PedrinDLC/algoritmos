@@ -1,0 +1,7 @@
+[project]
+name = "algoritmos"
+version = "0.1.0"
+description = "Projeto para estudo de algoritmos"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
